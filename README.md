@@ -1,4 +1,4 @@
-# codeadam-php-cms
+# PHP CMS for codeadam.ca
 
 This repository stores the vanilla PHP version of the codeadam.ca CMS. This CMS is based off of my basic [PHP CMS](https://github.com/codeadamca/php-cms) created for the intention of learning basic PHP and CRUD concepts. 
 
